@@ -14,6 +14,7 @@
   <form action="/usd" method="post">
     <lable>Rate:</lable>
     <input type="text" name="rate" placeholder="usd">
+    <br>
     <lable>USD:</lable>
     <input type="text" name="usd" placeholder="rate">
     <button type="submit" value="Convert">Convert</button>
